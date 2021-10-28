@@ -1,0 +1,12 @@
+1. ściągnąć: Python 3.9.4 (lub nowszy jeśli jest) z https://www.python.org/downloads/
+2. zainstalować ściągnięty plik exe
+3. uruchomić konsolę cmd
+uruchmic kolejno
+pip install SpeechRecognition
+pip install pipwin
+pipwin install pyaudio
+pip install pyttsx3
+------------------------------
+wyedytować komunikaty (swoje imię np) w pliku settings.txt
+wyedytować plik plan_dnia.txt i ustawić tam plan dnia
+uruchomić plan_dnia.py
